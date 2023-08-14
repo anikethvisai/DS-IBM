@@ -1,0 +1,39 @@
+# Data Science Tools and Ecosystem
+Various data science tools and ecosystems are summaraized in this notebook.
+
+Some popular languages that data scientists use are:
+
+1. Python
+2. R
+3. Java
+
+Some libraries used by data scientists are:
+
+1. NumPy
+2. SciPy
+3. Matplotlib
+
+| Data Science Tools |
+|--------------------|
+| Jupyter Notebook   |
+| RStudio            |
+| Apache Spark |
+
+### Here are some examples of evaluating arithmetic in Python:
+
+# This is an expression which demonstrates multiplying two integers then adding a third integer to that product
+
+(3 * 4) + 5
+
+#This expression converts 200 minutes to hours, dividing by 60
+(200/60)
+
+**Objectives:**
+
+- List popular data science languages
+- List tools used in data science
+- List various data science libraries
+
+## Author
+
+Aniketh
